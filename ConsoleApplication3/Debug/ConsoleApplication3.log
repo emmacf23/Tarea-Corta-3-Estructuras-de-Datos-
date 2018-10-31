@@ -1,5 +1,5 @@
 ﻿  ConsoleApplication3.cpp
 c:\users\emmanuel castro\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(238): warning C4554: "&": compruebe la prioridad de operador para posibles errores; utilice paréntesis para indicar la prioridad
-c:\users\emmanuel castro\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(92): warning C4715: 'NodoBinario::BuscarBinario': no todas las rutas de acceso de control devuelven un valor
 c:\users\emmanuel castro\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(69): warning C4715: 'ABB::buscarCedula': no todas las rutas de acceso de control devuelven un valor
+c:\users\emmanuel castro\source\repos\consoleapplication3\consoleapplication3\consoleapplication3.cpp(92): warning C4715: 'NodoBinario::BuscarBinario': no todas las rutas de acceso de control devuelven un valor
   ConsoleApplication3.vcxproj -> C:\Users\Emmanuel Castro\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
