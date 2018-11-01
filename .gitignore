@@ -13,3 +13,4 @@ ConsoleApplication3/ConsoleApplication3.cpp
 ConsoleApplication3/ConsoleApplication3.cpp
 *.cpp
 .vs/ConsoleApplication3/v15/.suo
+*.db
