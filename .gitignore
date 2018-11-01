@@ -1,5 +1,6 @@
 
 .vs/ConsoleApplication3/v15/Browse.VC.opendb
+<<<<<<< HEAD
 TareaCortita.vcxproj.user
 .vs/TareaCortita/v15/.suo
 .vs/TareaCortita/v15/Browse.VC.db
@@ -16,3 +17,5 @@ ConsoleApplication3/ConsoleApplication3.cpp
 .vs/ConsoleApplication3/v15/Browse.VC.db
 .vs/ConsoleApplication3/v15/ipch/2380d77b7d7befce.ipch
 .vs/ConsoleApplication3/v15/Browse.VC.db
+=======
+>>>>>>> parent of 59e8239... Update .gitignore
